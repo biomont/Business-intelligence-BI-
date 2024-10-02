@@ -1,17 +1,17 @@
-# Power BI - Reportes biomont
+# Power BI Public Links
 
-Este repositorio contiene enlaces a los dashboards de Power BI.
+Este repositorio contiene enlaces públicos a mis dashboards de Power BI.
 
 ## Dashboards por Categoría
 
 ### Ventas
-- [Dashboard de Ventas Global](https://app.powerbi.com/view?r=eyJrIjoiNThkMDZhZDMtOTBkMS00Y2YyLWE4ZDEtMjNjNWJhMWZiMTBiIiwidCI6IjQxNDQxNzhkLTEzM2YtNGEwYS04NWQxLTBlMjhjNGFmMzExYSIsImMiOjR9)
-- [Ventas Regionales]()
+- <a href="https://example-link-powerbi.com/sales-global" target="_blank">Dashboard de Ventas Global</a>
+- <a href="https://example-link-powerbi.com/sales-regional" target="_blank">Ventas Regionales</a>
 
 ### Marketing
-- [Estrategia de Marketing]()
-- [Análisis de Campañas]()
+- <a href="https://example-link-powerbi.com/marketing-strategy" target="_blank">Estrategia de Marketing</a>
+- <a href="https://example-link-powerbi.com/campaign-analysis" target="_blank">Análisis de Campañas</a>
 
 ### Finanzas
-- [Resumen Financiero 2023]()
-- [Informe de Costos]()
+- <a href="https://example-link-powerbi.com/financial-summary-2023" target="_blank">Resumen Financiero 2023</a>
+- <a href="https://example-link-powerbi.com/cost-report" target="_blank">Informe de Costos</a>
