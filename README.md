@@ -1,6 +1,6 @@
-# Power BI Public Links
+# Power BI - Links de reportes
 
-Este repositorio contiene enlaces públicos a mis dashboards de Power BI.
+Este repositorio contiene enlaces a los dashboards de Power BI.
 
 ## Dashboards por Categoría
 
