@@ -5,7 +5,7 @@ Este repositorio contiene enlaces públicos a mis dashboards de Power BI.
 ## Dashboards por Categoría
 
 ### Ventas
-- <a href="https://example-link-powerbi.com/sales-global" target="_blank">Dashboard de Ventas Global</a>
+- <a href="https://app.powerbi.com/view?r=eyJrIjoiNThkMDZhZDMtOTBkMS00Y2YyLWE4ZDEtMjNjNWJhMWZiMTBiIiwidCI6IjQxNDQxNzhkLTEzM2YtNGEwYS04NWQxLTBlMjhjNGFmMzExYSIsImMiOjR9" target="_blank">Dashboard de Ventas Global</a>
 - <a href="https://example-link-powerbi.com/sales-regional" target="_blank">Ventas Regionales</a>
 
 ### Marketing
